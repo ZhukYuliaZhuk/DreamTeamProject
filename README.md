@@ -5,3 +5,4 @@
 :cactus:
 :rocket:
 :unicorn:
+## It is impossible to defeat someone who does not give up
